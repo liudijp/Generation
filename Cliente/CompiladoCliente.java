@@ -3,7 +3,7 @@ package Generation.Cliente;
 import java.util.Scanner;
 
 public class CompiladoCliente {
-    public class ClienteEx {
+/*    public class ClienteEx {
         private int idade;
         private int celular;
         private String nome;
@@ -130,4 +130,6 @@ public class CompiladoCliente {
                     clientef1.visualizar();
                     clientej.visualizar();
                 }
+
+ */
             }
